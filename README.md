@@ -9,3 +9,6 @@
 - Create a `build` folder
 - Run `make`
 - Run `./build/main <program_name>`
+
+### References:
+[Cowgod's Chip-8 Technical Specification](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
