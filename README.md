@@ -6,5 +6,6 @@
 - If you have other configuration, feel free to change the directories of the library.
 
 ### Build
+- Create a `build` folder
 - Run `make`
 - Run `./build/main <program_name>`
